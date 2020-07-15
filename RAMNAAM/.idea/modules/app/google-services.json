@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "40996914998",
+    "firebase_url": "https://ram-naam-89978.firebaseio.com",
+    "project_id": "ram-naam-89978",
+    "storage_bucket": "ram-naam-89978.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:40996914998:android:a6f86b2146e02af7601597",
+        "android_client_info": {
+          "package_name": "com.example.ramnaam"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "40996914998-b16oaj9qvb5b5hr6omfag2qo5skk41gf.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.ramnaam",
+            "certificate_hash": "5c54e0e04ef61a1b882a5315c80e0bb8f422f62a"
+          }
+        },
+        {
+          "client_id": "40996914998-442b1q7itfqd4algul7io4vtc90m5kks.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCZcUtcdc-z08xPpvMzVTeAtU0hdipoHFI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "40996914998-442b1q7itfqd4algul7io4vtc90m5kks.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

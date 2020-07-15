@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<selector xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <corners android:topRightRadius="20dp"
+        android:bottomLeftRadius="20dp"
+        android:bottomRightRadius="20dp"
+        android:topLeftRadius="20dp"
+        />
+    <item android:state_pressed="true" android:drawable="@color/common_google_signin_btn_text_light_pressed"/>
+    <item android:drawable="@color/rednew"/>
+    <gradient android:endColor="@color/colorPrimaryDark" android:startColor="@color/common_google_signin_btn_text_light_pressed"></gradient>
+    <stroke android:color="@color/white"
+        android:width="1dp"/>
+</selector>
